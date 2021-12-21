@@ -4,9 +4,11 @@
 
 ## 1. Additional Requirments 
 ```
-    pygames
+    pygame
 ```
-
+``` 
+   py -m pip install -U pygame --user  
+```
 ## 2. Information 
 
 *Information and rules of the game*
